@@ -1,0 +1,12 @@
+body{
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.logo img{
+    width: 15%;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin: 6px;
+}
